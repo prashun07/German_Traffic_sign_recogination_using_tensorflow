@@ -8,3 +8,6 @@ Single-image, multi-class classification problem
 More than 40 classes
 More than 50,000 images in total
 Large, lifelike database
+
+
+![__results___11_0](https://user-images.githubusercontent.com/54842624/104820666-7e0dc800-585c-11eb-88d8-3595a6c1b2d9.png)
